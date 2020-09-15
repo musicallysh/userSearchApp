@@ -1,0 +1,36 @@
+
+body {
+  background: floralwhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  text-align: center;
+  width: 100%;
+  background: ghostwhite;
+  border: 1px solid #ccc;
+  box-shadow: -0.1rem 0.1rem 0.1rem 0.1rem gray;
+  opacity: 1;
+}
+
+.content {
+  padding: 1rem;
+}
+.actions {
+  border-top: 1px solid #ccc;
+  background: #eee;
+  padding: 0.5rem 1rem
+}
+.button {
+  border: 0;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  font-size: 0.8rem;
+  line-height: 1;
+}
+
+
+
+
