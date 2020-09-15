@@ -9,7 +9,7 @@ import {
 
 const mapOptions = { mapTypeControl: false, streetViewControl: false };
 
-const MAPS_API_KEY = 'AIzaSyAM9iaUYVzoZuv_h-ewcDRksyQsRnt6eXw'
+const MAPS_API_KEY = ''
 const mapStyle = {
   element: {
     height: '100%'
